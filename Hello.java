@@ -6,10 +6,5 @@ public class Hello {
 		int y = ao.addOne(10);
 		
 		System.out.println("y = " + y);
-				
-		/*
-		for (int i=0; i<xx.length; i++)
-			System.out.println(xx[i]);
-		*/
 	}
 }
