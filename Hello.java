@@ -8,5 +8,6 @@ public class Hello {
 		System.out.println("y = " + y);
 		System.out.println("Hello Pilsung");
 		System.out.println("World Pilsung");
+		System.out.println("Another Hello");
 	}
 }
