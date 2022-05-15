@@ -14,5 +14,8 @@ public class Hello {
 
         // change in local
 		System.out.println("Local change");
+        
+        // change in features branch
+		System.out.println("features branch: change");
 	}
 }
