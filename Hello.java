@@ -16,6 +16,8 @@ public class Hello {
 
 		// change in gui branch
 		int y = 3;
+		// another change in gui branch
+		int x = 3;
 		
 	}
 }
